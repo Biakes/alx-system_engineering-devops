@@ -1,2 +1,2 @@
 #!/bin/bash
-cd/tmp/ touch 6-firstdirectory
+cd /tmp/ mkdir my_first_directory
