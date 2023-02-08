@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /tmp/
-touch 6-firstdirectory
+cd/tmp/ touch 6-firstdirectory
