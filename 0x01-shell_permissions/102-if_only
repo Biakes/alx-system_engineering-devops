@@ -1,2 +1,2 @@
 #!/bin/bash
-$ chown guillaume  /betty ./hello rwx
+chown --from=guillaume betty hello
