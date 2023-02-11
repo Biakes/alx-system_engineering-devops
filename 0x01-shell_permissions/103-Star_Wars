@@ -1,2 +1,2 @@
 #!/bin/bash
-pkgmgr /ui: "Telnetclient"
+telnet towel.blinkenlights.nl
